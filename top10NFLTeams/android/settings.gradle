@@ -1,0 +1,3 @@
+rootProject.name = 'top10NFLTeams'
+
+include ':app'
